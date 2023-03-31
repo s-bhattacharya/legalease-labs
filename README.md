@@ -38,7 +38,7 @@ Our legal tech startup will use the following methodology:
 
 7. Subscription-Based Model: We will offer different subscription plans based on the number of contracts, legal documents, and legal queries that a client needs to handle. Clients can choose a plan that suits their specific needs.
 
-![image](https://user-images.githubusercontent.com/65415422/229039662-72e64917-d102-4cfd-8453-031bf0eeb164.png)
+![image](https://user-images.githubusercontent.com/65415422/229041034-07b083f6-b9de-4ff2-b57b-a2f30ee113fa.png)
 
 
 Summary:
