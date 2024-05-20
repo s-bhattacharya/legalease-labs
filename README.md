@@ -1,4 +1,4 @@
-# Legalease-Labs
+# scribius-legal
 
 Executive Summary:
 
